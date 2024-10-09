@@ -55,7 +55,7 @@ You need to set up your `.env` file to store your API keys for Pinecone and the 
 2. Add the following environment variables to the `.env` file:
 ```
 PINECONE_API_KEY=<Your_Pinecone_API_Key>
-grow_api_key=<Your_Groq_API_Key>
+groq_api_key=<Your_Groq_API_Key>
 ```
 ###  Step 5: Understanding `template.py`
 The `template.py` file is a key component for the bot’s interaction process. It defines the structure of how the chatbot processes user input and returns the appropriate responses.
@@ -81,3 +81,9 @@ Once all the previous steps are completed, you can run the application by execut
 python app.py
 ```
 This will launch D.A.I.S.Y. chatbot, and you can start interacting with it via the web interface provided by `chat.html`.
+### Step 9: Accessing the Chatbot
+After running `app.py`, the chatbot will be accessible locally on localhost:8080. Open your browser and visit:
+```
+http://localhost:8080
+
+```
