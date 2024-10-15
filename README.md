@@ -1,4 +1,4 @@
-# D.A.I.S.Y: Digital Assistant for Information and Symptom Yielding
+## D.A.I.S.Y: Digital Assistant for Information and Symptom Yielding
 **D.A.I.S.Y.** is a Generative AI-powered medical assistant that helps users identify symptoms and get valuable medical information based on their inputs. With a combination of Generative AI techniques, D.A.I.S.Y. can engage in meaningful conversations with users, providing helpful and informative responses in real-time.
 
 ## Project Setup
